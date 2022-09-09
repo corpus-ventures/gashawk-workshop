@@ -61,7 +61,7 @@
         "timeout": 10000000
     },
     "dependencies": {
-        "gashawk-sdk": "^1.0.11",
+        "gashawk-sdk": "^1.0.12",
         "hardhat-gas-reporter": "^1.0.8"
     }
 }
