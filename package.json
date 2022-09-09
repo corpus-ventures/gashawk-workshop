@@ -61,7 +61,7 @@
         "timeout": 10000000
     },
     "dependencies": {
-        "@corpus-ventures/gashawk-sdk": "^1.0.9",
+        "@corpus-ventures/gashawk-sdk": "^1.0.10",
         "hardhat-gas-reporter": "^1.0.8"
     }
 }
