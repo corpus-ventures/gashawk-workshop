@@ -23,7 +23,7 @@ const func: DeployFunction = async function (hre: HardhatRuntimeEnvironment) {
         "HelloGashawk"
     )) as HelloGashawk__factory;
 
-  /*   //Use the gashawk signer to send the deploy transaction to gashawk
+    /*   //Use the gashawk signer to send the deploy transaction to gashawk
     const contractDeployTx = await gashawkSigner.sendTransaction({
         ...helloGashawkFactory.getDeployTransaction(),
         gasLimit: BigNumber.from(150000),

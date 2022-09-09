@@ -1,6 +1,6 @@
 {
     "name": "gashawk-workshop",
-    "version": "1.0.4",
+    "version": "1.0.5",
     "description": "",
     "scripts": {
         "compile": "hardhat compile",
@@ -61,7 +61,7 @@
         "timeout": 10000000
     },
     "dependencies": {
-        "@corpus-ventures/gashawk-sdk": "^1.0.8",
+        "@corpus-ventures/gashawk-sdk": "^1.0.9",
         "hardhat-gas-reporter": "^1.0.8"
     }
 }
