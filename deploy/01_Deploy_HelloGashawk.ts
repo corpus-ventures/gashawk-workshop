@@ -1,4 +1,4 @@
-import { Gashawk } from "@corpus-ventures/gashawk-sdk";
+import { Gashawk } from "gashawk-sdk";
 import { BigNumber, ethers, Wallet } from "ethers";
 import { DeployFunction } from "hardhat-deploy/types";
 import { HardhatRuntimeEnvironment } from "hardhat/types";
