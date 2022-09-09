@@ -1,6 +1,6 @@
 {
-    "name": "typescript-eth-solidity-hardhat-template",
-    "version": "1.0.0",
+    "name": "gashawk-workshop",
+    "version": "1.0.4",
     "description": "",
     "scripts": {
         "compile": "hardhat compile",
@@ -18,7 +18,7 @@
         "LICENSE",
         "README.md"
     ],
-    "author": "Kristjan Kosic <kristjan@protokol.com>",
+    "author": "Alex Plutta alex@corpus.ventures",
     "license": "MIT",
     "devDependencies": {
         "@nomiclabs/hardhat-ethers": "^2.0.5",
@@ -61,7 +61,7 @@
         "timeout": 10000000
     },
     "dependencies": {
-        "@corpus-ventures/gashawk-sdk": "^1.0.2",
+        "@corpus-ventures/gashawk-sdk": "^1.0.8",
         "hardhat-gas-reporter": "^1.0.8"
     }
 }
